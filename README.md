@@ -16,13 +16,7 @@
 
 <h3 align="center">💻Software Engineering Student 👨‍💻 | Seeking Job Opportunities 💼 | Strong academic foundation in Computer Science 📚 | Proficient in many technical skills 💡 | Passionate about coding, problem-solving, and continuous learning 🚀 | Eager to contribute to impactful projects 🌟 | Seeking growth in a dynamic organization 🌱.</h3>
 
-
-
-
-       ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀<div align="center">
-
-<pre>
+<pre align="center">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⢠⡾⠲⠶⣤⣀⣠⣤⣤⣤⡿⠛⠿⡴⠾⠛⢻⡆⠀⠀⠀
 ⠀⠀⠀⣼⠁⠀⠀⠀⠉⠁⠀⢀⣿⠐⡿⣿⠿⣶⣤⣤⣷⡀⠀⠀
@@ -35,12 +29,6 @@
 ⠀⠀⠀⠀⠀⢻⣄⣠⣤⣴⠟⠛⠛⠛⢧⣤⣤⣀⡾⠁⠀⠀⠀⠀
 </pre>
 
-</div>
-
-
-
-       
-        ⠀⠀⠀⠀⠀⠀⠀⠀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shagunsharmacs22&label=Profile%20views&color=0e75b6&style=flat" alt="shagun Sharma" /> </p>
 
